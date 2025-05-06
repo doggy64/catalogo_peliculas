@@ -5,12 +5,6 @@ body {
     color: white;
   }
   
-  header {
-    background-color: #1f1f1f;
-    padding: 20px;
-    text-align: center;
-    font-size: 24px;
-  }
   
   nav {
     display: flex;
@@ -58,3 +52,34 @@ body {
     height: 170px;
     border-radius: 6px;
   }
+
+  header {
+    background-color: #1f1f1f;
+    padding: 30px 20px;
+    text-align: center;
+    font-size: 36px;
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 1px;
+    font-weight: bold;
+    border-bottom: none;
+  
+    text-shadow: 0 0 10px #fff,
+                 0 0 20px #ff00cc,
+                 0 0 30px #ff00cc,
+                 0 0 40px #ff00cc;
+  
+    animation: fadeIn 1s ease-in-out;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  

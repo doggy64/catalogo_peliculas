@@ -73,6 +73,8 @@ Despues escribio los commits con el prefijo **feat:** y utilizo el verbo imperat
 
 ### Jhamil documentando a Jhonny 👀
 
+Jhonny contribuyó activamente desde el inicio del proyecto hasta su culminación, con bastante dedicación y proactividad. El subió los estilos iniciales en css, y posteriormente creó una rama para agregar películas de drama al proyecto. La mayoría de sus commit son justamente agregando películas, al principio no usaba un prefijo para nombrar sus commits, usaba mayúsculas en algunas palabras, y tenía algunas pequeñas fallas ortográfias. Sin embargo fue aprendiendo de sus errores y mejoró el nombrado de sus commits a lo largo del proyecto. Creo que sobra decir que su trabajo con respecto al código del proyecto también fue espléndido y sin errores. Me gustaría volver a trabajar con él en un futuro.
+
 ### Jhonny documentando a Rodrigo 👀
 
 ## Git hooks o git alias utilizadas como equipo 👥

@@ -6,6 +6,12 @@
 ## Descripción del proyecto
 Este es un mini-proyecto de una página web sobre peliculas y sus respectivas categorias, **con el proposito de colocar en practica todos nuestros conocimientos adquiridos en Git y Github**.
 
+## Enlace del sitio web
+Nota: por razos extraordinarias las imagenes no son visualizables.
+Link: 👉[https://doggy64.github.io/catalogo_peliculas/](https://doggy64.github.io/catalogo_peliculas/)
+
+
+
 ## Gitflow utilizado 🌟
 
 Para organizar nuestro flujo de trabajo colaborativo, implementamos la metodología **GitFlow**, lo cual nos permitió mantener un desarrollo ordenado, predecible y fácilmente integrable entre los miembros del equipo, se utilizaron las siguientes ramas:
@@ -59,6 +65,9 @@ Al subir las peliculas en categoria drama en el bloque de las lineas de codigo i
 
 ### Rodrigo documentando a David 👀
 
+Durante el desarrollo del proyecto David fue mejorando progresivamente, inicialmente realizaba los commits con uso de mayúsculas y sin prefijos, posteriormente el avanzar de las clases fue mejorando notablemente en la calidad de sus commits evitando el uso de mayúsculas y utilizando los prefijos correctos y el verbo imperativo,realizo pull request con los miembros del equipo e implemento los tags iniciales.
+
+
 ### David documentando a Jhamil 👀
 
 **Malas practicas**
@@ -92,7 +101,7 @@ Como equipo implementamos los alias que mas utilizamos, en este caso fue para el
 
 1. 👨‍💻😸 David Huanca Ledezma 
 2. 👨‍💻🐶 Rodrigo Chocamani Borda
-3. 👨‍💻 Jhamil Jesús Arnez Hidalgo
+3. 👨‍💻🐆 Jhamil Jesús Arnez Hidalgo
 4. 👨‍💻🦭 Jhonny Leonardo Rivas Olivera 
 
 Fue un gusto trabajar con todos ustedes como equipo, nos vemos en otra opotunidad.

@@ -76,6 +76,8 @@ Despues escribio los commits con el prefijo **feat:** y utilizo el verbo imperat
 Jhonny contribuyó activamente desde el inicio del proyecto hasta su culminación, con bastante dedicación y proactividad. El subió los estilos iniciales en css, y posteriormente creó una rama para agregar películas de drama al proyecto. La mayoría de sus commit son justamente agregando películas, al principio no usaba un prefijo para nombrar sus commits, usaba mayúsculas en algunas palabras, y tenía algunas pequeñas fallas ortográfias. Sin embargo fue aprendiendo de sus errores y mejoró el nombrado de sus commits a lo largo del proyecto. Creo que sobra decir que su trabajo con respecto al código del proyecto también fue espléndido y sin errores. Me gustaría volver a trabajar con él en un futuro.
 
 ### Jhonny documentando a Rodrigo 👀
+Desde un inicio Rodrigo fue una persona proactiva, inicio subiendo cambios y funcionalidad entre categorías en scrip js con buenas practicas en la estructura del commit pero con el uso de mayúsculas y sin el prefijos, posteriormente mejoro la estructura de sus commits con minúsculas, prefijos y verbo imperativo también realizo discusiones con la pull request e implemento issues como recordatorio de buenas y malas practicas en el proyecto dependiendo del desarrollador, subio paulatinamente peliculas e implemento tags para las versiones del softwere.
+Fue una buena experiencia haber trabajado con el equipo espero pronto volver a desarrollar softwere, hasta otra oportunidad, un abrazo.
 
 ## Git hooks o git alias utilizadas como equipo 👥
 Como equipo implementamos los alias que mas utilizamos, en este caso fue para el switch y branch.

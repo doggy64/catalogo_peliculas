@@ -95,7 +95,7 @@ Como equipo implementamos los alias que mas utilizamos, en este caso fue para el
 * **branch:** Como nos moviamos entre ramas teniamos que verificar en que rama estabamos y por esa razon utilizamos el alias br para hacerlo mas rapido.
 ![git](img/alias.png)
 
-## Finalización del proyecto y despedida, !hasta la proxima¡ 😢
+## Finalización del proyecto y despedida, ¡hasta la proxima! 😢
 
 ## Desarrolladores
 
@@ -104,4 +104,4 @@ Como equipo implementamos los alias que mas utilizamos, en este caso fue para el
 3. 👨‍💻🐆 Jhamil Jesús Arnez Hidalgo
 4. 👨‍💻🦭 Jhonny Leonardo Rivas Olivera 
 
-Fue un gusto trabajar con todos ustedes como equipo, nos vemos en otra opotunidad.
+Fue un gusto trabajar con todos ustedes como equipo, nos vemos en otra oportunidad.
